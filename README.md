@@ -1,3 +1,14 @@
 # 👋 Hi, I’m George
-- 👀 I’m interested in Cyber Security and Networking.
+- 👀 I’m interested in Cyber Security and Object Oriented Programming.
 - 📝 I’m currently studying a T Level in Digital Support Services.
+- 📺 My favourite TV Shows are:
+  - Mr Robot
+  - Black Mirror
+  - Better Call Saul
+  - Breaking Bad
+- ▶️ My favourite YouTube Channels are:
+  - [Tom Scott]([url](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A)https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A)
+  - [Kurzgesagt]([url](https://www.youtube.com/c/inanutshell)https://www.youtube.com/c/inanutshell)
+  - [Veritasium]([url](https://www.youtube.com/@veritasium)https://www.youtube.com/@veritasium)
+  - [LEMMiNO]([url](https://www.youtube.com/@LEMMiNO)https://www.youtube.com/@LEMMiNO)
+  - [Max Fosh]([url](https://www.youtube.com/@MaxFosh)https://www.youtube.com/@MaxFosh)
