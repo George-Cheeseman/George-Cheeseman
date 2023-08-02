@@ -6,9 +6,3 @@
   - Black Mirror
   - Better Call Saul
   - Breaking Bad
-- ▶️ My favourite YouTube Channels are:
-  - [Tom Scott]([url](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A)https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A)
-  - [Kurzgesagt]([url](https://www.youtube.com/c/inanutshell)https://www.youtube.com/c/inanutshell)
-  - [Veritasium]([url](https://www.youtube.com/@veritasium)https://www.youtube.com/@veritasium)
-  - [LEMMiNO]([url](https://www.youtube.com/@LEMMiNO)https://www.youtube.com/@LEMMiNO)
-  - [Max Fosh]([url](https://www.youtube.com/@MaxFosh)https://www.youtube.com/@MaxFosh)
